@@ -4,11 +4,9 @@ var app = express();
 var fs = require('fs');
 var uc = require('upper-case');
 
-
- 
 var router = express.Router();
 
-console.log('Start First NODE JS Application');
+console.log('Start First NODE JS Application - ha Ha');
 
 app.use(express.static('public'));
 
