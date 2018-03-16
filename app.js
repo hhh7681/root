@@ -6,7 +6,7 @@ var uc = require('upper-case');
 
 var router = express.Router();
 
-console.log('Start First NODE JS Application - ha Ha');
+console.log('Start First NODE JS Application');
 
 app.use(express.static('public'));
 
